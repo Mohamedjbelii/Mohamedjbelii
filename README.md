@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Mohamed Jbeli 🚀
 
 ## About Me
@@ -21,14 +19,22 @@ Hi, I'm Mohamed Jbeli, a **Cloud Engineer** and **Developer** passionate about b
 ## 🚀 Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
-
-## 🌟 Highlighted Projects
-
 ## 🌟 Current Project: **TrendPulse**  
 
 ### [TrendPulse - Viral Video Automation](https://github.com/mohamedjbelii/trendpulse)
@@ -74,7 +80,11 @@ _Currently focusing on foundational features, including multi-platform automatio
 - **Custom Branding**: Allowing users to personalize their uploaded content.
 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedjbelii&repo=TrendPulse&theme=radical)](https://github.com/Mohamedjbelii/TrendPulse)
+
+ ## 🌟 Highlighted Projects
+
 ## 🔧 Hands-on Practice: **DevOps_project_2**
+
 
 ### [DevOps_project_2 - CI/CD and Automation](https://github.com/Mohamedjbelii/DevOps_project_2)
 ![DevOps Bootcamp](https://img.shields.io/badge/Bootcamp-TechWorld%20with%20Nana-blue?style=for-the-badge)
