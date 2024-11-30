@@ -1,6 +1,9 @@
 {
+  "name": "readmejs",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "isomorphic-unfetch": "^4.0.2",
-    "openai": "^4.73.0"
+    "openai": "^4.73.1"
   }
 }

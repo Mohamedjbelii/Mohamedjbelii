@@ -176,19 +176,7 @@ _The project has been successfully deployed with high availability, auto-scaling
 - 🌐 Building a cloud infrastructure project using Terraform.
 
 ---
+# Office Quote of the Day
 
-#### 📺 Random Quote from a TV Series
-
-Here are some random quotes from **{{selected_series}}**:
-
-> "undefined"  
-> &mdash; <cite>undefined</cite> undefined
-
-
-> "undefined"  
-> &mdash; <cite>undefined</cite> undefined
-
-
-> "undefined"  
-> &mdash; <cite>undefined</cite> undefined
-
+"I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations."  
+— Michael Scott

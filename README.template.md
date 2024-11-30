@@ -176,8 +176,7 @@ _The project has been successfully deployed with high availability, auto-scaling
 - 🌐 Building a cloud infrastructure project using Terraform.
 
 ---
+# Office Quote of the Day
 
-#### 📺 Random Quote from a TV Series
-
-Here are some random quotes from **{{selected_series}}**:
-{{quotes}}
+"{{office_quote}}"  
+— {{office_quoted_by}}
