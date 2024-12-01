@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations."  
+"I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK."  
 — Michael Scott
