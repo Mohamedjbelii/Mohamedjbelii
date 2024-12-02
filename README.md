@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK."  
+"If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice."  
 — Michael Scott
