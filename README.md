@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific."  
+"Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time."  
 — Dwight Schrute
