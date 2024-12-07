@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time."  
+"I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight."  
 — Dwight Schrute
