@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical."  
+"Why tip someone for a job I’m capable of doing myself? I can deliver food. I can drive a taxi. I can, and do, cut my own hair. I did, however, tip my urologist, because I am unable to pulverize my own kidney stones."  
 — Dwight Schrute
