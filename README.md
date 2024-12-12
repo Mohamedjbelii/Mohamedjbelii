@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing."  
+"Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms."  
 — Dwight Schrute
