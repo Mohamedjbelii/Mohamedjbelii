@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms."  
+"They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!"  
 — Dwight Schrute
