@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!"  
-— Dwight Schrute
+"I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend."  
+— Michael Scott
