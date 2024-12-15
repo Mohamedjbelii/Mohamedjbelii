@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend."  
+"Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do."  
 — Michael Scott
