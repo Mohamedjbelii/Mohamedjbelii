@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?"  
-— Michael Scott
+"‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’."  
+— Dwight Schrute
