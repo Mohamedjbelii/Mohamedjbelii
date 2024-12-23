@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"My perfect Valentine’s day? I’m at home, three cell phones in front of me, fielding desperate calls from people who want to buy one of the fifty restaurant reservations I made over six months ago."  
+"OK, see you later, Pan."  
 — Dwight Schrute
