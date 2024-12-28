@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable."  
+"Welcome to the Hotel Hell. Check-in time is now. Check-out time is never."  
 — Dwight Schrute
