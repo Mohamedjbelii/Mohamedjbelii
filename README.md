@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Welcome to the Hotel Hell. Check-in time is now. Check-out time is never."  
-— Dwight Schrute
+"How is it possible that in five years, I’ve had two engagements and only one chair?"  
+— Pam Beesly
