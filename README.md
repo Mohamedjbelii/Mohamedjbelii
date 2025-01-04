@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"My mind is going a mile an hour."  
+"I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here."  
 — Michael Scott
