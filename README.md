@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here."  
+"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
 — Michael Scott
