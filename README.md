@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
-— Michael Scott
+"Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants."  
+— Dwight Schrute
