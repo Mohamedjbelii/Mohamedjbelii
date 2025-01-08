@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Ah, humor. I have it, too."  
-— Dwight Schrute
+"It takes an advanced sense of humor. I don’t expect everyone to understand."  
+— Michael Scott
