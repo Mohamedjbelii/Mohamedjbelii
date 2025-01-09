@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It takes an advanced sense of humor. I don’t expect everyone to understand."  
-— Michael Scott
+"I am better than you have ever been or ever will be."  
+— Dwight Schrute
