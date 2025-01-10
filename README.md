@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am better than you have ever been or ever will be."  
-— Dwight Schrute
+"I hate so much about the things you choose to be."  
+— Michael Scott
