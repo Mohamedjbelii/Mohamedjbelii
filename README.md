@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"When someone smiles at me, all I see is a chimpanzee begging for its life."  
-— Dwight Schrute
+"I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?"  
+— Michael Scott
