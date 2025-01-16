@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Why are all these people here? There’s too many people on this earth. We need a new plague."  
-— Dwight Schrute
+"Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?"  
+— Michael Scott
