@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?"  
-— Michael Scott
+"‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’."  
+— Dwight Schrute
