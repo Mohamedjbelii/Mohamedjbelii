@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly."  
-— Dwight Schrute
+"This day is BANANAS! B-A-N-A-N-A-S!"  
+— Kelly Kapoor
