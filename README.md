@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet."  
-— Michael Scott
+"Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone."  
+— Dwight Schrute
