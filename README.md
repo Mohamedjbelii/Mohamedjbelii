@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone."  
+"People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck."  
 — Dwight Schrute
