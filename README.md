@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck."  
-— Dwight Schrute
+"I'm always thinking one step ahead, like a carpenter who makes stairs."  
+— Andy Bernard
