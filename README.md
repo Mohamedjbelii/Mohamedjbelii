@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I'm always thinking one step ahead, like a carpenter who makes stairs."  
-— Andy Bernard
+"I am faster than 80 percent of all snakes."  
+— Dwight Schrute
