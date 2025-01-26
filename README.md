@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am faster than 80 percent of all snakes."  
-— Dwight Schrute
+"They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?"  
+— Michael Scott
