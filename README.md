@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Michael will be related to this baby through... delusion."  
-— Jim Halpert
+"Nothing stresses me out. Except having to seek the approval of my inferiors."  
+— Dwight Schrute
