@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"That has sort of an oaky afterbirth."  
-— Michael Scott
+"Love is all you need? False, you need water and rations."  
+— Dwight Schrute
