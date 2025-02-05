@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Identity theft is not a joke, Jim! Millions of families suffer every year."  
-— Dwight Schrute
+"Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing."  
+— Michael Scott
