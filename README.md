@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!"  
-— Dwight Schrute
+"Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."  
+— Michael Scott
