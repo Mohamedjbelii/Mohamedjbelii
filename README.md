@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."  
-— Michael Scott
+"It’s not effeminate. It’s festive."  
+— Dwight Schrute
