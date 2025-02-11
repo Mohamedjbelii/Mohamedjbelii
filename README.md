@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am ready to face any challenge that might be foolish enough to face me."  
-— Dwight Schrute
+"Did I stutter?"  
+— Stanley Hudson
