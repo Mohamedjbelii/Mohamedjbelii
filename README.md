@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks."  
-— Michael Scott
+"Not enough for me? You are everything."  
+— Jim Halpert
