@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Not enough for me? You are everything."  
-— Jim Halpert
+"And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t."  
+— Dwight Schrute
