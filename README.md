@@ -1,7 +1,7 @@
 # Mohamed Jbeli 🚀
 
 ## About Me
-Hi, I'm Mohamed Jbeli, a **Cloud** and **FULL STACK ENGINEER** passionate about building scalable systems, automating processes, and solving complex problems. 
+Hi, I'm Mohamed Jbeli, a **Cloud Engineer** and **Developer** passionate about building scalable systems, automating processes, and solving complex problems. 
 
 🌐 **Portfolio**: [Visit here](http://mohamedjbelii.github.io/Mohamed-portfolio)  
 💼 **Open to new opportunities**  
@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t."  
-— Dwight Schrute
+"Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees."  
+— Michael Scott
