@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees."  
+"Any man who says he totally understands women is a fool. Because they are un-understandable."  
 — Michael Scott
