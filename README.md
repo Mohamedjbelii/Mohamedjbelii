@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Any man who says he totally understands women is a fool. Because they are un-understandable."  
+"You don’t know me, you’ve just seen my penis."  
 — Michael Scott
