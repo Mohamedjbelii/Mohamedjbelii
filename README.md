@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel."  
-— Creed Bratton
+"Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time."  
+— Dwight Schrute
