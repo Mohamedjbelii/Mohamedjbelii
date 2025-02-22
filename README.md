@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I really should have a Tweeter account."  
-— Dwight Schrute
+"Sorry I annoyed you with my friendship."  
+— Andy Bernard
