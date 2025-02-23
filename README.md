@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Sorry I annoyed you with my friendship."  
-— Andy Bernard
+"Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible."  
+— Dwight Schrute
