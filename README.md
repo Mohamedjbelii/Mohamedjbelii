@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"They say on your deathbed you never wish you spent more time at the office — but I will."  
-— Michael Scott
+"D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific."  
+— Dwight Schrute
