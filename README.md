@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific."  
-— Dwight Schrute
+"I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend."  
+— Michael Scott
