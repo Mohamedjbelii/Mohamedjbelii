@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend."  
-— Michael Scott
+"I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do."  
+— Dwight Schrute
