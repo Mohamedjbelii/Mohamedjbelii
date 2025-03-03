@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do."  
-— Dwight Schrute
+"An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true."  
+— Michael Scott
