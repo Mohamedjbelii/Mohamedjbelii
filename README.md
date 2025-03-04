@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true."  
+"They say on your deathbed you never wish you spent more time at the office — but I will."  
 — Michael Scott
