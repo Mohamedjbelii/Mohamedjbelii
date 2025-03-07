@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!"  
+"OK, too many different words from coming at me from too many different sentences."  
 — Michael Scott
