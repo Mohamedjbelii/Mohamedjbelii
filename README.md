@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved."  
+"I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate."  
 — Dwight Schrute
