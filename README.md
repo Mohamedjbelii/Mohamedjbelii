@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work."  
-— Dwight Schrute
+"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+— Michael Scott
