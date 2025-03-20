@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+"When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?"  
 — Michael Scott
