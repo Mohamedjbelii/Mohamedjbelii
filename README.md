@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?"  
-— Michael Scott
+"When I President, they see. They see."  
+— Kevin Malone
