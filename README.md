@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck."  
-— Michael Scott
+"I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station."  
+— Creed Bratton
