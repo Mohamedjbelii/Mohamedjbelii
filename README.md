@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station."  
-— Creed Bratton
+"Dwight, you ignorant slut!"  
+— Michael Scott
