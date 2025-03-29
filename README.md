@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I knew exactly what to do. But in a much more real sense, I had no idea what to do."  
-— Michael Scott
+"I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway."  
+— Dwight Schrute
