@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway."  
-— Dwight Schrute
+"It’s a good thing Russia doesn’t exist anymore."  
+— Michael Scott
