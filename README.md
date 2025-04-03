@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"All that singing got in the way of some perfectly good murders."  
+"In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching."  
 — Dwight Schrute
