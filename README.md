@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching."  
+"Do I have a date for Valentine’s Day? Yes. February 14th."  
 — Dwight Schrute
