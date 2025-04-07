@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars."  
+"And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t."  
 — Dwight Schrute
