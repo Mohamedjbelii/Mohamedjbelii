@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t."  
+"I always wondered how they picked the person to die. I’d be good at picking the person."  
 — Dwight Schrute
