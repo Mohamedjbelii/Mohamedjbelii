@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"When someone smiles at me, all I see is a chimpanzee begging for its life."  
+"The eyes are the groin of the head."  
 — Dwight Schrute
