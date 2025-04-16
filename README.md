@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"A real man swallows his vomit when a lady is present."  
+"Bread is the paper of the food industry. You write your sandwich on it."  
 — Dwight Schrute
