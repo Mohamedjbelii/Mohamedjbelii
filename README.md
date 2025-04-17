@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Bread is the paper of the food industry. You write your sandwich on it."  
-— Dwight Schrute
+"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+— Michael Scott
