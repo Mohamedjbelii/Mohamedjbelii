@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+"I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third."  
 — Michael Scott
