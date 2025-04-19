@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third."  
-— Michael Scott
+"There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died."  
+— Dwight Schrute
