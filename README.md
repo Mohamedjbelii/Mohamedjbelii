@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died."  
-— Dwight Schrute
+"It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive."  
+— Michael Scott
