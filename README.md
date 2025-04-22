@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Oh, this is gonna feel so good getting this thing off my chest… that’s what she said."  
+"You are as creepy as a real serial killer. For real."  
 — Michael Scott
