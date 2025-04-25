@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"A real man swallows his vomit when a lady is present."  
-— Dwight Schrute
+"Let’s put a smile on that face."  
+— Creed Bratton
