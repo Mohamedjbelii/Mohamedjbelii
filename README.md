@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Let’s put a smile on that face."  
-— Creed Bratton
+"That has sort of an oaky afterbirth."  
+— Michael Scott
