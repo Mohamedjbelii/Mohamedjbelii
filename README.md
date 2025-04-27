@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"That has sort of an oaky afterbirth."  
+"Well, happy birthday, Jesus. Sorry that your party’s so lame."  
 — Michael Scott
