@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Well, happy birthday, Jesus. Sorry that your party’s so lame."  
-— Michael Scott
+"Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms."  
+— Dwight Schrute
