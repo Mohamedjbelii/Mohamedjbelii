@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!"  
-— Michael Scott
+"They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!"  
+— Dwight Schrute
