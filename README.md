@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!"  
+"I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!"  
 — Dwight Schrute
