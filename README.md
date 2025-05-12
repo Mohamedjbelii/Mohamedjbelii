@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am Beyonce, always."  
+"Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them."  
 — Michael Scott
