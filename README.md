@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them."  
+"The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money."  
 — Michael Scott
