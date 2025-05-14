@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money."  
+"I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here."  
 — Michael Scott
