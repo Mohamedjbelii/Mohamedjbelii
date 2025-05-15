@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here."  
-— Michael Scott
+"I'm going to do something I've never done at this job before - try."  
+— Jim Halpert
