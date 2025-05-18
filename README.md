@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You better learn your rules. If you don’t, you’ll be eaten in your sleep."  
-— Dwight Schrute
+"Oh, this is gonna feel so good getting this thing off my chest… that’s what she said."  
+— Michael Scott
