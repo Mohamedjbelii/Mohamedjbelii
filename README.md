@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jim and I are great friends. We hang out a ton, mostly at work."  
+"We’re all homos. Homo… Sapiens."  
 — Michael Scott
