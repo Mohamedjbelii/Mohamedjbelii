@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"We’re all homos. Homo… Sapiens."  
-— Michael Scott
+"Babies are one of my many areas of expertise. Growing up, I performed my own circumcision."  
+— Dwight Schrute
