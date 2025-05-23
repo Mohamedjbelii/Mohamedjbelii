@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Babies are one of my many areas of expertise. Growing up, I performed my own circumcision."  
+"I love catching people in the act. That’s why I always whip open doors."  
 — Dwight Schrute
