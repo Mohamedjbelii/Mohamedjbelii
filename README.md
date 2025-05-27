@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family."  
+"Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears."  
 — Michael Scott
