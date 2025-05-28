@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears."  
-— Michael Scott
+"In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas."  
+— Dwight Schrute
