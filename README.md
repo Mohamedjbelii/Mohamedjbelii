@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas."  
-— Dwight Schrute
+"Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm."  
+— Michael Scott
