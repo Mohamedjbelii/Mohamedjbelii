@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Reverse psychology is an awesome tool. I don’t know if you guys know about it, but, basically, you make someone think the opposite of what you believe. And that tricks them into doing something stupid. Works like a charm."  
+"If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice."  
 — Michael Scott
