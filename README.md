@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Well, happy birthday, Jesus. Sorry that your party’s so lame."  
+"The only time I set the bar low is for limbo."  
 — Michael Scott
