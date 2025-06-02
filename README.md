@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"The only time I set the bar low is for limbo."  
+"I saved a life. My own. Am I a hero?… I really can’t say, but yes!"  
 — Michael Scott
