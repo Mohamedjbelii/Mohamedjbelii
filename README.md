@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I saved a life. My own. Am I a hero?… I really can’t say, but yes!"  
-— Michael Scott
+"You better learn your rules. If you don’t, you’ll be eaten in your sleep."  
+— Dwight Schrute
