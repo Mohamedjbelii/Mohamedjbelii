@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You better learn your rules. If you don’t, you’ll be eaten in your sleep."  
-— Dwight Schrute
+"I miss Dwight. Congratulations Universe, you win."  
+— Jim Halpert
