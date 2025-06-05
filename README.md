@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I miss Dwight. Congratulations Universe, you win."  
-— Jim Halpert
+"Welcome to the Hotel Hell. Check-in time is now. Check-out time is never."  
+— Dwight Schrute
