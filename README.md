@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Welcome to the Hotel Hell. Check-in time is now. Check-out time is never."  
-— Dwight Schrute
+"I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck."  
+— Michael Scott
