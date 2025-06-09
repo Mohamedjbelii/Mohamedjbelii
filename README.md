@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"PowerPoints are the peacocks of the business world; all show, no meat."  
-— Dwight Schrute
+"I say dance, they say ‘How high?'"  
+— Michael Scott
