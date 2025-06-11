@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love."  
+"Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'"  
 — Michael Scott
