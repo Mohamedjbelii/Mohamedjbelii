@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'"  
-— Michael Scott
+"If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people."  
+— Dwight Schrute
