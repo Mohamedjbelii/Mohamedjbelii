@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened."  
-— Michael Scott
+"It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too."  
+— Stanley Hudson
