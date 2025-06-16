@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too."  
-— Stanley Hudson
+"You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’"  
+— Michael Scott
