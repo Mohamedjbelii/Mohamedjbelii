@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’"  
-— Michael Scott
+"I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther."  
+— Dwight Schrute
