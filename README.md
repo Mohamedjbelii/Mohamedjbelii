@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther."  
-— Dwight Schrute
+"The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money."  
+— Michael Scott
