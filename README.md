@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money."  
+"You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’"  
 — Michael Scott
