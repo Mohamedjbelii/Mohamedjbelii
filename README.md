@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far."  
+"Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it."  
 — Dwight Schrute
