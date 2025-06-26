@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it."  
+"I always wondered how they picked the person to die. I’d be good at picking the person."  
 — Dwight Schrute
