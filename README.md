@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I always wondered how they picked the person to die. I’d be good at picking the person."  
+"Get a friend, loser."  
 — Dwight Schrute
