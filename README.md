@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!"  
+"At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?"  
 — Dwight Schrute
