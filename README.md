@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making"  
-— Pam Beesly
+"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+— Michael Scott
