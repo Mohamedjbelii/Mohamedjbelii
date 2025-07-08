@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work."  
-— Dwight Schrute
+"There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love."  
+— Michael Scott
