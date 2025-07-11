@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Saw Inception. Or at least I dreamt I did."  
+"They say on your deathbed you never wish you spent more time at the office — but I will."  
 — Michael Scott
