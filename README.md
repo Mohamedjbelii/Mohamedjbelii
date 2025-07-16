@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Well, well, well, how the turntables."  
-— Michael Scott
+"All you need is love? False. The four basic human necessities are air, water, food, and shelter."  
+— Dwight Schrute
