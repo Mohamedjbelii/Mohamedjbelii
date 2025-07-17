@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"All you need is love? False. The four basic human necessities are air, water, food, and shelter."  
-— Dwight Schrute
+"Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."  
+— Creed Bratton
