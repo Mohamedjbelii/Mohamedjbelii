@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."  
-— Creed Bratton
+"Why tip someone for a job I’m capable of doing myself? I can deliver food. I can drive a taxi. I can, and do, cut my own hair. I did, however, tip my urologist, because I am unable to pulverize my own kidney stones."  
+— Dwight Schrute
