@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Sorry I annoyed you with my friendship."  
-— Andy Bernard
+"I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!"  
+— Dwight Schrute
