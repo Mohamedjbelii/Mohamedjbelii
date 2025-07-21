@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!"  
+"There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory."  
 — Dwight Schrute
