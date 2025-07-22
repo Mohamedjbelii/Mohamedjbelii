@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory."  
+"Jim couldn’t land me in a thousand years."  
 — Dwight Schrute
