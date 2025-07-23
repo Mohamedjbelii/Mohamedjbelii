@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jim couldn’t land me in a thousand years."  
+"I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure."  
 — Dwight Schrute
