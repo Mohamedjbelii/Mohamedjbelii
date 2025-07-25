@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You couldn’t handle my undivided attention."  
-— Dwight Schrute
+"Well, well, well, how the turntables."  
+— Michael Scott
