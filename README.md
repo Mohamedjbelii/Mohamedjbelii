@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I say dance, they say ‘How high?'"  
-— Michael Scott
+"I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."  
+— Creed Bratton
