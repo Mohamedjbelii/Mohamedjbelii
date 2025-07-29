@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."  
-— Creed Bratton
+"There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual."  
+— Michael Scott
