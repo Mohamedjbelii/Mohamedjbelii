@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual."  
+"It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive."  
 — Michael Scott
