@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Do you think that doing alcohol is cool?"  
+"Make friends first, make sales second, make love third. In no particular order."  
 — Michael Scott
