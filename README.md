@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Make friends first, make sales second, make love third. In no particular order."  
+"I would not miss it for the world. But if something else came up, I would definitely not go."  
 — Michael Scott
