@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am Beyonce, always."  
+"And I knew exactly what to do. But in a much more real sense, I had no idea what to do."  
 — Michael Scott
