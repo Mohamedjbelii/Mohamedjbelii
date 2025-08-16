@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I knew exactly what to do. But in a much more real sense, I had no idea what to do."  
-— Michael Scott
+"Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation."  
+— Dwight Schrute
