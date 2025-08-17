@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation."  
-— Dwight Schrute
+"Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way."  
+— Michael Scott
