@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants."  
-— Dwight Schrute
+"Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information."  
+— Michael Scott
