@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information."  
-— Michael Scott
+"I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!"  
+— Dwight Schrute
