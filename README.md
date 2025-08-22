@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!"  
+"When held over heat, the invisible ink will reveal that everyone should meet at the warehouse immediately. Do not ask me where I got the invisible ink. Urine. It was urine."  
 — Dwight Schrute
