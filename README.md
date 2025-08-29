@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here."  
+"It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me."  
 — Michael Scott
