@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me."  
+"You don’t know me, you’ve just seen my penis."  
 — Michael Scott
