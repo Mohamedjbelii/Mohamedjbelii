@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I’m optimistic because every day I get a little more desperate."  
-— Michael Scott
+"Get a friend, loser."  
+— Dwight Schrute
