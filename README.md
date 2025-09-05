@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Get a friend, loser."  
-— Dwight Schrute
+"I feel like all my kids grew up and then they married each other. It’s every parent’s dream."  
+— Michael Scott
