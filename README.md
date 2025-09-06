@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I feel like all my kids grew up and then they married each other. It’s every parent’s dream."  
-— Michael Scott
+"If I can’t scuba, then what’s this all been about? What am I working toward?"  
+— Creed Bratton
