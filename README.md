@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"If I can’t scuba, then what’s this all been about? What am I working toward?"  
-— Creed Bratton
+"Nothing stresses me out. Except having to seek the approval of my inferiors."  
+— Dwight Schrute
