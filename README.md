@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It’s a good thing Russia doesn’t exist anymore."  
-— Michael Scott
+"I am one of the few people who looks hot eating a cupcake."  
+— Kelly Kapoor
