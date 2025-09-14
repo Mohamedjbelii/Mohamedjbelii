@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I misspelled, in front of the entire school, the word ‘failure.’"  
-— Dwight Schrute
+"I saved a life — my own."  
+— Michael Scott
