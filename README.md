@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It takes an advanced sense of humor. I don’t expect everyone to understand."  
+"I have cause. It’s beCAUSE I hate him."  
 — Michael Scott
