@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I have cause. It’s beCAUSE I hate him."  
+"And I’m optimistic because every day I get a little more desperate."  
 — Michael Scott
