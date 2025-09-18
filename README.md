@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"And I’m optimistic because every day I get a little more desperate."  
-— Michael Scott
+"People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck."  
+— Dwight Schrute
