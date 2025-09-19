@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck."  
+"Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!"  
 — Dwight Schrute
