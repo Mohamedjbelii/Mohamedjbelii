@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am Beyonce, always."  
+"If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus."  
 — Michael Scott
