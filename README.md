@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’"  
+"It’s a good thing Russia doesn’t exist anymore."  
 — Michael Scott
