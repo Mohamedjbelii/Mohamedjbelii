@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"It’s a good thing Russia doesn’t exist anymore."  
-— Michael Scott
+"Oh, you’re paying way too much for worms. Who’s your worm guy?"  
+— Creed Bratton
