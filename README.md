@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Oh, you’re paying way too much for worms. Who’s your worm guy?"  
-— Creed Bratton
+"I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther."  
+— Dwight Schrute
