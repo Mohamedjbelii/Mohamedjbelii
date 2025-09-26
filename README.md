@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther."  
+"PowerPoints are the peacocks of the business world; all show, no meat."  
 — Dwight Schrute
