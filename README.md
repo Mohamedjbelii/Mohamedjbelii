@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Bears are more afraid of you than you are of them? You obviously aren’t scared enough."  
-— Dwight Schrute
+"I am Beyonce, always."  
+— Michael Scott
