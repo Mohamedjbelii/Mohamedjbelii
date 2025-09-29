@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am Beyonce, always."  
+"When I discovered YouTube, I didn’t work for five days."  
 — Michael Scott
