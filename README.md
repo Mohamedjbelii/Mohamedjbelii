@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"When I discovered YouTube, I didn’t work for five days."  
-— Michael Scott
+"Through concentration, I can raise and lower my cholesterol at will."  
+— Dwight Schrute
