@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wish there was a way to know you’re in the good old days, before you’ve actually left them."  
-— Andy Bernard
+"I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching."  
+— Dwight Schrute
