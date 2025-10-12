@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station."  
-— Creed Bratton
+"If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family."  
+— Michael Scott
