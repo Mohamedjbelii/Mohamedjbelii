@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!"  
-— Dwight Schrute
+"If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus."  
+— Michael Scott
