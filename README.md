@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus."  
-— Michael Scott
+"It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work."  
+— Dwight Schrute
