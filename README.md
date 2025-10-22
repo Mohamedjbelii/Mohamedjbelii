@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jim told me you could buy gaydar online."  
+"You better learn your rules. If you don’t, you’ll be eaten in your sleep."  
 — Dwight Schrute
