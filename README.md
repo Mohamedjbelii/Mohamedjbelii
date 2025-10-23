@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You better learn your rules. If you don’t, you’ll be eaten in your sleep."  
-— Dwight Schrute
+"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
+— Michael Scott
