@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead."  
-— Michael Scott
+"I wonder if king-sized sheets are called presidential-sized in England."  
+— Dwight Schrute
