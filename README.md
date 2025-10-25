@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wonder if king-sized sheets are called presidential-sized in England."  
-— Dwight Schrute
+"I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!"  
+— Michael Scott
