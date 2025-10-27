@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I would say I kind of have an unfair advantage because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."  
-— Michael Scott
+"‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’."  
+— Dwight Schrute
