@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’."  
+"To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever."  
 — Dwight Schrute
