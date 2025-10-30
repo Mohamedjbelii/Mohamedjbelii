@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I think green is kind of whorish."  
-— Angela Martin
+"It’s a good thing Russia doesn’t exist anymore."  
+— Michael Scott
