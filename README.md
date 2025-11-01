@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little, but on pretzel day? Well, I like pretzel day.."  
-— Stanley Hudson
+"Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do."  
+— Michael Scott
