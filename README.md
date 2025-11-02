@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do."  
+"Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy."  
 — Michael Scott
