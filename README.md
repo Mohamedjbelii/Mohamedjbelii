@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy."  
+"Two queens at casino night. I am gonna drop a deuce on everybody."  
 — Michael Scott
