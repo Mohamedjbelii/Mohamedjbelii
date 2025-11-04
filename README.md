@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Two queens at casino night. I am gonna drop a deuce on everybody."  
+"Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them."  
 — Michael Scott
