@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I feel like all my kids grew up and then they married each other. It’s every parent’s dream."  
-— Michael Scott
+"It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work."  
+— Dwight Schrute
