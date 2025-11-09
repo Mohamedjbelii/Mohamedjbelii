@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine."  
-— Dwight Schrute
+"Dwight, you ignorant slut!"  
+— Michael Scott
