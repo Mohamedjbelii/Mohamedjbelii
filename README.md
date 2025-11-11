@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family."  
-— Michael Scott
+"I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do."  
+— Dwight Schrute
