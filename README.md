@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do."  
+"I am faster than 80 percent of all snakes."  
 — Dwight Schrute
