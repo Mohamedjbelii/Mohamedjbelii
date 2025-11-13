@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"I am faster than 80 percent of all snakes."  
-— Dwight Schrute
+"I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station."  
+— Creed Bratton
