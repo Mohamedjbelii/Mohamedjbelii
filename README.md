@@ -178,5 +178,5 @@ _The project has been successfully deployed with high availability, auto-scaling
 ---
 # Office Quote of the Day
 
-"Bears are more afraid of you than you are of them? You obviously aren’t scared enough."  
-— Dwight Schrute
+"That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here."  
+— Michael Scott
