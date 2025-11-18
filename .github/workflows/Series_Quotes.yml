@@ -1,31 +1,31 @@
-name: README with Random TV Series Quote
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-random-quote:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Install Node
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-      - name: Install dependencies
-        run: npm install
-      - name: Get quote and write new README
-        run: node .
-      - name: Add README to repo
-        run: |
-          git config pull.rebase false
-          git pull
-          git add .
-          git config --global user.name "Mohamedjbelii"
-          git config --global user.email "mohamedjbeli26@gmail.com"
-          git commit -m "[Automated] README updated with new random TV series quote!"
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+#name: README with Random TV Series Quote
+# on:
+#   schedule:
+#     # Runs every hour
+#     - cron: '0 0 * * *'
+#   workflow_dispatch:
+# jobs:
+#   update-readme-with-random-quote:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Install Node
+#         uses: actions/setup-node@v2
+#         with:
+#           node-version: '14'
+#       - name: Install dependencies
+#         run: npm install
+#       - name: Get quote and write new README
+#         run: node .
+#       - name: Add README to repo
+#         run: |
+#           git config pull.rebase false
+#           git pull
+#           git add .
+#           git config --global user.name "Mohamedjbelii"
+#           git config --global user.email "mohamedjbeli26@gmail.com"
+#           git commit -m "[Automated] README updated with new random TV series quote!"
+#       - name: Push
+#         uses: ad-m/github-push-action@master
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
